@@ -14,7 +14,7 @@ export default function SignUp() {
               Sign Up to your Account
             </h2>
 
-            <form className="space-y-8">
+            <form className="space-y-8 p-5 text-black">
               <div className="space-y-4">
                 {/* Name */}
                 <div className="space-y-2">
